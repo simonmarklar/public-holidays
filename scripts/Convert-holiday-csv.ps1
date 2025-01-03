@@ -20,7 +20,7 @@ function Import-HolidayCsv {
 
     import-csv -Path $CsvPath | 
         Select-Object -Property  @{label="holidayName"; Expression={$_."Holiday Name"}}, 
-            "information",
+            @{label="information"; Expression={$_.Information}},
             @{label="State"; Expression={$_.Jurisdiction}}, 
             @{label="Year";expression={[int]$_.Date.substring(0,4)}}, 
             @{label="Month";expression={[int]$_.Date.substring(4,2)}}, 
