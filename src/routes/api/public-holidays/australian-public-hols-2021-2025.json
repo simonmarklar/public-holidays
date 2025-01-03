@@ -1,0 +1,4258 @@
+[
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "act",
+		"year": 2021,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "act",
+		"year": 2021,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Canberra Day",
+		"information": "Held on the second Monday of March each year in Canberra to celebrate the naming ceremony of Australia's capital which took place on 12 March 1913.",
+		"state": "act",
+		"year": 2021,
+		"month": 3,
+		"day": 8
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "act",
+		"year": 2021,
+		"month": 4,
+		"day": 2
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "act",
+		"year": 2021,
+		"month": 4,
+		"day": 3
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "act",
+		"year": 2021,
+		"month": 4,
+		"day": 4
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "act",
+		"year": 2021,
+		"month": 4,
+		"day": 5
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "act",
+		"year": 2021,
+		"month": 4,
+		"day": 26
+	},
+	{
+		"holidayName": "Reconciliation Day",
+		"information": "Takes place on the first Monday on or after 27 May each year the anniversary of the 1967 referendum",
+		"state": "act",
+		"year": 2021,
+		"month": 5,
+		"day": 31
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "act",
+		"year": 2021,
+		"month": 6,
+		"day": 14
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.",
+		"state": "act",
+		"year": 2021,
+		"month": 10,
+		"day": 4
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "act",
+		"year": 2021,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "act",
+		"year": 2021,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Saturday in 2021, there is an additional public holiday on the Monday.",
+		"state": "act",
+		"year": 2021,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "Boxing Day (additional day)",
+		"information": "As 26 December (Boxing Day) falls on a Sunday in 2021, there is an additional public holiday on the Tuesday.",
+		"state": "act",
+		"year": 2021,
+		"month": 12,
+		"day": 28
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "nsw",
+		"year": 2021,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "nsw",
+		"year": 2021,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "nsw",
+		"year": 2021,
+		"month": 4,
+		"day": 2
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "nsw",
+		"year": 2021,
+		"month": 4,
+		"day": 3
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nsw",
+		"year": 2021,
+		"month": 4,
+		"day": 4
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nsw",
+		"year": 2021,
+		"month": 4,
+		"day": 5
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "nsw",
+		"year": 2021,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "nsw",
+		"year": 2021,
+		"month": 6,
+		"day": 14
+	},
+	{
+		"holidayName": "Bank Holiday",
+		"information": "Applies to banks and certain financial institutions, per the Retail Trading Act 2008",
+		"state": "nsw",
+		"year": 2021,
+		"month": 8,
+		"day": 2
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "nsw",
+		"year": 2021,
+		"month": 10,
+		"day": 4
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "nsw",
+		"year": 2021,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "nsw",
+		"year": 2021,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Saturday in 2021, there is an additional public holiday on the Monday.",
+		"state": "nsw",
+		"year": 2021,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "Boxing Day (additional day)",
+		"information": "As 26 December (Boxing Day) falls on a Sunday in 2021, there is an additional public holiday on the Tuesday.",
+		"state": "nsw",
+		"year": 2021,
+		"month": 12,
+		"day": 28
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "nt",
+		"year": 2021,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "nt",
+		"year": 2021,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "nt",
+		"year": 2021,
+		"month": 4,
+		"day": 2
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "nt",
+		"year": 2021,
+		"month": 4,
+		"day": 3
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nt",
+		"year": 2021,
+		"month": 4,
+		"day": 5
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "nt",
+		"year": 2021,
+		"month": 4,
+		"day": 26
+	},
+	{
+		"holidayName": "May Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "nt",
+		"year": 2021,
+		"month": 5,
+		"day": 3
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "nt",
+		"year": 2021,
+		"month": 6,
+		"day": 14
+	},
+	{
+		"holidayName": "Picnic Day",
+		"information": "Observed on the first Monday of August each year and is clebrated with a horse race, railway picnic and other social outings",
+		"state": "nt",
+		"year": 2021,
+		"month": 8,
+		"day": 2
+	},
+	{
+		"holidayName": "Christmas Eve 7pm - Midnight",
+		"information": "Part-day public holiday from 7pm-12 midnight",
+		"state": "nt",
+		"year": 2021,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "nt",
+		"year": 2021,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "nt",
+		"year": 2021,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Saturday in 2021, there is an additional public holiday on the Monday.",
+		"state": "nt",
+		"year": 2021,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "Boxing Day (additional day)",
+		"information": "As 26 December (Boxing Day) falls on a Sunday in 2021, there is an additional public holiday on the Tuesday.",
+		"state": "nt",
+		"year": 2021,
+		"month": 12,
+		"day": 28
+	},
+	{
+		"holidayName": "New Year's Eve 7pm - Midnight",
+		"information": "Part-day public holiday from 7pm-12 midnight",
+		"state": "nt",
+		"year": 2021,
+		"month": 12,
+		"day": 31
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "qld",
+		"year": 2021,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "qld",
+		"year": 2021,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "qld",
+		"year": 2021,
+		"month": 4,
+		"day": 2
+	},
+	{
+		"holidayName": "The Day after Good Friday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "qld",
+		"year": 2021,
+		"month": 4,
+		"day": 3
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "qld",
+		"year": 2021,
+		"month": 4,
+		"day": 4
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "qld",
+		"year": 2021,
+		"month": 4,
+		"day": 5
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "qld",
+		"year": 2021,
+		"month": 4,
+		"day": 26
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "qld",
+		"year": 2021,
+		"month": 5,
+		"day": 3
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "qld",
+		"year": 2021,
+		"month": 10,
+		"day": 4
+	},
+	{
+		"holidayName": "Christmas Eve 6pm - Midnight",
+		"information": "Part day public holiday from 6pm to midnight",
+		"state": "qld",
+		"year": 2021,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "qld",
+		"year": 2021,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "qld",
+		"year": 2021,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Saturday in 2021, there is an additional public holiday on the Monday.",
+		"state": "qld",
+		"year": 2021,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "Boxing Day (additional day)",
+		"information": "As 26 December (Boxing Day) falls on a Sunday in 2021, there is an additional public holiday on the Tuesday.",
+		"state": "qld",
+		"year": 2021,
+		"month": 12,
+		"day": 28
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "sa",
+		"year": 2021,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "sa",
+		"year": 2021,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Adelaide Cup Day",
+		"information": "The Holidays Act 1910 provides for the third Monday in May to be a public holiday. ch through the issuing of a special Proclamation by the Governor.",
+		"state": "sa",
+		"year": 2021,
+		"month": 3,
+		"day": 8
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "sa",
+		"year": 2021,
+		"month": 4,
+		"day": 2
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "sa",
+		"year": 2021,
+		"month": 4,
+		"day": 3
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "sa",
+		"year": 2021,
+		"month": 4,
+		"day": 5
+	},
+	{
+		"holidayName": "Anzac Day (additional day)",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "sa",
+		"year": 2021,
+		"month": 4,
+		"day": 26
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "sa",
+		"year": 2021,
+		"month": 6,
+		"day": 14
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "sa",
+		"year": 2021,
+		"month": 10,
+		"day": 4
+	},
+	{
+		"holidayName": "Christmas Eve  7pm - Midnight",
+		"information": "Part-day public holiday from 7pm-12 midnight",
+		"state": "sa",
+		"year": 2021,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "sa",
+		"year": 2021,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day / Proclamation Day",
+		"information": "Proclamation/Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "sa",
+		"year": 2021,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Saturday in 2021, there is an additional public holiday on the Monday.",
+		"state": "sa",
+		"year": 2021,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "Boxing Day / Proclamation Day (additional day)",
+		"information": "As 26 December (Proclamation/Boxing Day) falls on a Sunday in 2021, there is an additional public holiday on the Tuesday.",
+		"state": "sa",
+		"year": 2021,
+		"month": 12,
+		"day": 28
+	},
+	{
+		"holidayName": "New Year's Eve 7pm - Midnight",
+		"information": "Part-day public holiday from 7pm-12 midnight",
+		"state": "sa",
+		"year": 2021,
+		"month": 12,
+		"day": 31
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "tas",
+		"year": 2021,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "tas",
+		"year": 2021,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Eight Hours Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "tas",
+		"year": 2021,
+		"month": 3,
+		"day": 8
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "tas",
+		"year": 2021,
+		"month": 4,
+		"day": 2
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "tas",
+		"year": 2021,
+		"month": 4,
+		"day": 5
+	},
+	{
+		"holidayName": "Easter Tuesday",
+		"information": "Public Holiday currently observed by certain awards/agreements and the State Public Service",
+		"state": "tas",
+		"year": 2021,
+		"month": 4,
+		"day": 6
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "tas",
+		"year": 2021,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "tas",
+		"year": 2021,
+		"month": 6,
+		"day": 14
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "tas",
+		"year": 2021,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "tas",
+		"year": 2021,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "tas",
+		"year": 2021,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "Boxing Day (additional day)",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "tas",
+		"year": 2021,
+		"month": 12,
+		"day": 28
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "vic",
+		"year": 2021,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "vic",
+		"year": 2021,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "vic",
+		"year": 2021,
+		"month": 3,
+		"day": 8
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "vic",
+		"year": 2021,
+		"month": 4,
+		"day": 2
+	},
+	{
+		"holidayName": "Saturday before Easter Sunday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "vic",
+		"year": 2021,
+		"month": 4,
+		"day": 3
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "vic",
+		"year": 2021,
+		"month": 4,
+		"day": 4
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "vic",
+		"year": 2021,
+		"month": 4,
+		"day": 5
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "vic",
+		"year": 2021,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "vic",
+		"year": 2021,
+		"month": 6,
+		"day": 14
+	},
+	{
+		"holidayName": "Friday before AFL Grand Final",
+		"information": "Friday before the AFL Grand Final",
+		"state": "vic",
+		"year": 2021,
+		"month": 9,
+		"day": 24
+	},
+	{
+		"holidayName": "Melbourne Cup",
+		"information": "All of Victoria unless alternate local holiday has been arranged by non-metro council.",
+		"state": "vic",
+		"year": 2021,
+		"month": 11,
+		"day": 2
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "vic",
+		"year": 2021,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "vic",
+		"year": 2021,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "vic",
+		"year": 2021,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "Boxing Day (additional day)",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "vic",
+		"year": 2021,
+		"month": 12,
+		"day": 28
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "wa",
+		"year": 2021,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "wa",
+		"year": 2021,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "wa",
+		"year": 2021,
+		"month": 3,
+		"day": 1
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "wa",
+		"year": 2021,
+		"month": 4,
+		"day": 2
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "wa",
+		"year": 2021,
+		"month": 4,
+		"day": 5
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "wa",
+		"year": 2021,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Anzac Day (additional day)",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "wa",
+		"year": 2021,
+		"month": 4,
+		"day": 26
+	},
+	{
+		"holidayName": "Western Australia Day",
+		"information": "Held on the first Monday in June each year and is a state holiday only.",
+		"state": "wa",
+		"year": 2021,
+		"month": 6,
+		"day": 7
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "wa",
+		"year": 2021,
+		"month": 9,
+		"day": 27
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "wa",
+		"year": 2021,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "wa",
+		"year": 2021,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Saturday in 2021, there is an additional public holiday on the Monday.",
+		"state": "wa",
+		"year": 2021,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "Boxing Day (additional day)",
+		"information": "As 26 December (Boxing Day) falls on a Sunday in 2021, there is an additional public holiday on the Tuesday.",
+		"state": "wa",
+		"year": 2021,
+		"month": 12,
+		"day": 28
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "act",
+		"year": 2022,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (additional day)",
+		"information": "As 1 January 2022 falls on a Saturday in 2022, the following Monday is observed as an additional public holiday.",
+		"state": "act",
+		"year": 2022,
+		"month": 1,
+		"day": 3
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "act",
+		"year": 2022,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Canberra Day",
+		"information": "Held on the second Monday of March each year in Canberra to celebrate the naming ceremony of Australia's capital which took place on 12 March 1913.",
+		"state": "act",
+		"year": 2022,
+		"month": 3,
+		"day": 14
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "act",
+		"year": 2022,
+		"month": 4,
+		"day": 15
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "act",
+		"year": 2022,
+		"month": 4,
+		"day": 16
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "act",
+		"year": 2022,
+		"month": 4,
+		"day": 17
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "act",
+		"year": 2022,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "act",
+		"year": 2022,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Reconciliation Day",
+		"information": "Takes place on the first Monday on or after 27 May each year the anniversary of the 1967 referendum",
+		"state": "act",
+		"year": 2022,
+		"month": 5,
+		"day": 30
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "act",
+		"year": 2022,
+		"month": 6,
+		"day": 13
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.",
+		"state": "act",
+		"year": 2022,
+		"month": 10,
+		"day": 3
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "act",
+		"year": 2022,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "act",
+		"year": 2022,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",
+		"state": "act",
+		"year": 2022,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "nsw",
+		"year": 2022,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (additional day)",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "nsw",
+		"year": 2022,
+		"month": 1,
+		"day": 3
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "nsw",
+		"year": 2022,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "nsw",
+		"year": 2022,
+		"month": 4,
+		"day": 15
+	},
+	{
+		"holidayName": "Easter Saturday - the Saturday following Good Friday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "nsw",
+		"year": 2022,
+		"month": 4,
+		"day": 16
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nsw",
+		"year": 2022,
+		"month": 4,
+		"day": 17
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nsw",
+		"year": 2022,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "nsw",
+		"year": 2022,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "nsw",
+		"year": 2022,
+		"month": 6,
+		"day": 13
+	},
+	{
+		"holidayName": "Bank Holiday",
+		"information": "Applies to banks and certain financial institutions, per the Retail Trading Act 2008",
+		"state": "nsw",
+		"year": 2022,
+		"month": 8,
+		"day": 1
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "nsw",
+		"year": 2022,
+		"month": 10,
+		"day": 3
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "nsw",
+		"year": 2022,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "nsw",
+		"year": 2022,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Sunday in 2022 there is an additional public holiday on the Tuesday.",
+		"state": "nsw",
+		"year": 2022,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "nt",
+		"year": 2022,
+		"month": 1,
+		"day": 3
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "nt",
+		"year": 2022,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "nt",
+		"year": 2022,
+		"month": 4,
+		"day": 15
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "nt",
+		"year": 2022,
+		"month": 4,
+		"day": 16
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nt",
+		"year": 2022,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "nt",
+		"year": 2022,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "May Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "nt",
+		"year": 2022,
+		"month": 5,
+		"day": 2
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "nt",
+		"year": 2022,
+		"month": 6,
+		"day": 13
+	},
+	{
+		"holidayName": "Picnic Day",
+		"information": "Observed on the first Monday of August each year and is clebrated with a horse race, railway picnic and other social outings",
+		"state": "nt",
+		"year": 2022,
+		"month": 8,
+		"day": 1
+	},
+	{
+		"holidayName": "Christmas Eve 7pm - midnight",
+		"information": "Part-day public holiday from 7pm-12 midnight",
+		"state": "nt",
+		"year": 2022,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "nt",
+		"year": 2022,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "nt",
+		"year": 2022,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",
+		"state": "nt",
+		"year": 2022,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "New Year's Eve 7pm - midnight",
+		"information": "Part-day public holiday from 7pm-12 midnight",
+		"state": "nt",
+		"year": 2022,
+		"month": 12,
+		"day": 31
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "qld",
+		"year": 2022,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (additional day)",
+		"information": "As 1 January 2022 falls on a Saturday in 2022, the following Monday is observed as an additional public holiday.",
+		"state": "qld",
+		"year": 2022,
+		"month": 1,
+		"day": 3
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "qld",
+		"year": 2022,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "qld",
+		"year": 2022,
+		"month": 4,
+		"day": 15
+	},
+	{
+		"holidayName": "The day after Good Friday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "qld",
+		"year": 2022,
+		"month": 4,
+		"day": 16
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "qld",
+		"year": 2022,
+		"month": 4,
+		"day": 17
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "qld",
+		"year": 2022,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "qld",
+		"year": 2022,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "qld",
+		"year": 2022,
+		"month": 5,
+		"day": 2
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "qld",
+		"year": 2022,
+		"month": 10,
+		"day": 3
+	},
+	{
+		"holidayName": "Christmas Eve 6pm - Midnight",
+		"information": "Part day public holiday from 6pm to midnight",
+		"state": "qld",
+		"year": 2022,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "qld",
+		"year": 2022,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "qld",
+		"year": 2022,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",
+		"state": "qld",
+		"year": 2022,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "sa",
+		"year": 2022,
+		"month": 1,
+		"day": 3
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "sa",
+		"year": 2022,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Adelaide Cup Day",
+		"information": "The Holidays Act 1910 provides for the third Monday in May to be a public holiday. ch through the issuing of a special Proclamation by the Governor.",
+		"state": "sa",
+		"year": 2022,
+		"month": 3,
+		"day": 14
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "sa",
+		"year": 2022,
+		"month": 4,
+		"day": 15
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "sa",
+		"year": 2022,
+		"month": 4,
+		"day": 16
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "sa",
+		"year": 2022,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "sa",
+		"year": 2022,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Queen's Birthday / Volunteer's Day",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "sa",
+		"year": 2022,
+		"month": 6,
+		"day": 13
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "sa",
+		"year": 2022,
+		"month": 10,
+		"day": 3
+	},
+	{
+		"holidayName": "Christmas Eve 7pm - midnight",
+		"information": "Part-day public holiday from 7pm-12 midnight",
+		"state": "sa",
+		"year": 2022,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "sa",
+		"year": 2022,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day / Proclamation Day",
+		"information": "Proclamation/Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "sa",
+		"year": 2022,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",
+		"state": "sa",
+		"year": 2022,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "New Year's Eve 7pm  - midnight",
+		"information": "Part-day public holiday from 7pm-12 midnight",
+		"state": "sa",
+		"year": 2022,
+		"month": 12,
+		"day": 31
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "tas",
+		"year": 2022,
+		"month": 1,
+		"day": 3
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "tas",
+		"year": 2022,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Eight Hours Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "tas",
+		"year": 2022,
+		"month": 3,
+		"day": 14
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "tas",
+		"year": 2022,
+		"month": 4,
+		"day": 15
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "tas",
+		"year": 2022,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Easter Tuesday",
+		"information": "Public Holiday currently observed by certain awards/agreements and the State Public Service",
+		"state": "tas",
+		"year": 2022,
+		"month": 4,
+		"day": 19
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "tas",
+		"year": 2022,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "tas",
+		"year": 2022,
+		"month": 6,
+		"day": 13
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "tas",
+		"year": 2022,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "tas",
+		"year": 2022,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",
+		"state": "tas",
+		"year": 2022,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "vic",
+		"year": 2022,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (additional day)",
+		"information": "As 1 January 2022 falls on a Saturday in 2022, the following Monday is observed as an additional public holiday.",
+		"state": "vic",
+		"year": 2022,
+		"month": 1,
+		"day": 3
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "vic",
+		"year": 2022,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "vic",
+		"year": 2022,
+		"month": 3,
+		"day": 14
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "vic",
+		"year": 2022,
+		"month": 4,
+		"day": 15
+	},
+	{
+		"holidayName": "Saturday before Easter Sunday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "vic",
+		"year": 2022,
+		"month": 4,
+		"day": 16
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "vic",
+		"year": 2022,
+		"month": 4,
+		"day": 17
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "vic",
+		"year": 2022,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "vic",
+		"year": 2022,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "vic",
+		"year": 2022,
+		"month": 6,
+		"day": 13
+	},
+	{
+		"holidayName": "Friday before the AFL Grand Final",
+		"information": "Friday before the AFL Grand Final",
+		"state": "vic",
+		"year": 2022,
+		"month": 9,
+		"day": 23
+	},
+	{
+		"holidayName": "Melbourne Cup",
+		"information": "All of Victoria unless alternate local holiday has been arranged by non-metro council.",
+		"state": "vic",
+		"year": 2022,
+		"month": 11,
+		"day": 1
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "vic",
+		"year": 2022,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "vic",
+		"year": 2022,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",
+		"state": "vic",
+		"year": 2022,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "wa",
+		"year": 2022,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (additional day)",
+		"information": "As 1 January 2022 falls on a Saturday in 2022, the following Monday is observed as an additional public holiday.",
+		"state": "wa",
+		"year": 2022,
+		"month": 1,
+		"day": 3
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "wa",
+		"year": 2022,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "wa",
+		"year": 2022,
+		"month": 3,
+		"day": 7
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "wa",
+		"year": 2022,
+		"month": 4,
+		"day": 15
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "wa",
+		"year": 2022,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "wa",
+		"year": 2022,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Western Australia Day",
+		"information": "Held on the first Monday in June each year and is a state holiday only.",
+		"state": "wa",
+		"year": 2022,
+		"month": 6,
+		"day": 6
+	},
+	{
+		"holidayName": "Queen's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "wa",
+		"year": 2022,
+		"month": 9,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "wa",
+		"year": 2022,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "wa",
+		"year": 2022,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "Christmas (additional day)",
+		"information": "As 25 December (Christmas Day) falls on a Saturday in 2022, there is an additional public holiday on the Monday.",
+		"state": "wa",
+		"year": 2022,
+		"month": 12,
+		"day": 27
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "act",
+		"year": 2023,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (observed)",
+		"information": "As 1 January 2023 falls on a Sunday in 2023, the following Monday is observed as an additional public holiday.",
+		"state": "act",
+		"year": 2023,
+		"month": 1,
+		"day": 2
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "act",
+		"year": 2023,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Canberra Day",
+		"information": "Held on the second Monday of March each year in Canberra to celebrate the naming ceremony of Australia's capital which took place on 12 March 1913.",
+		"state": "act",
+		"year": 2023,
+		"month": 3,
+		"day": 13
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "act",
+		"year": 2023,
+		"month": 4,
+		"day": 7
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "act",
+		"year": 2023,
+		"month": 4,
+		"day": 8
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "act",
+		"year": 2023,
+		"month": 4,
+		"day": 9
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "act",
+		"year": 2023,
+		"month": 4,
+		"day": 10
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "act",
+		"year": 2023,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Reconciliation Day",
+		"information": "Takes place on the first Monday on or after 27 May each year the anniversary of the 1967 referendum",
+		"state": "act",
+		"year": 2023,
+		"month": 5,
+		"day": 29
+	},
+	{
+		"holidayName": "Sovereign's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "act",
+		"year": 2023,
+		"month": 6,
+		"day": 12
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.",
+		"state": "act",
+		"year": 2023,
+		"month": 10,
+		"day": 2
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "act",
+		"year": 2023,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "act",
+		"year": 2023,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "nsw",
+		"year": 2023,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (observed)",
+		"information": "As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",
+		"state": "nsw",
+		"year": 2023,
+		"month": 1,
+		"day": 2
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "nsw",
+		"year": 2023,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "nsw",
+		"year": 2023,
+		"month": 4,
+		"day": 7
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "nsw",
+		"year": 2023,
+		"month": 4,
+		"day": 8
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nsw",
+		"year": 2023,
+		"month": 4,
+		"day": 9
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nsw",
+		"year": 2023,
+		"month": 4,
+		"day": 10
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "nsw",
+		"year": 2023,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "nsw",
+		"year": 2023,
+		"month": 6,
+		"day": 12
+	},
+	{
+		"holidayName": "Bank Holiday",
+		"information": "Applies to banks and certain financial institutions, per the Retail Trading Act 2008",
+		"state": "nsw",
+		"year": 2023,
+		"month": 8,
+		"day": 7
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.",
+		"state": "nsw",
+		"year": 2023,
+		"month": 10,
+		"day": 2
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "nsw",
+		"year": 2023,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "nsw",
+		"year": 2023,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "nt",
+		"year": 2023,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (observed)",
+		"information": "As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",
+		"state": "nt",
+		"year": 2023,
+		"month": 1,
+		"day": 2
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "nt",
+		"year": 2023,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "nt",
+		"year": 2023,
+		"month": 4,
+		"day": 7
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "nt",
+		"year": 2023,
+		"month": 4,
+		"day": 8
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nt",
+		"year": 2023,
+		"month": 4,
+		"day": 9
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nt",
+		"year": 2023,
+		"month": 4,
+		"day": 10
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "nt",
+		"year": 2023,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "May Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "nt",
+		"year": 2023,
+		"month": 5,
+		"day": 1
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "nt",
+		"year": 2023,
+		"month": 6,
+		"day": 12
+	},
+	{
+		"holidayName": "Picnic Day",
+		"information": "Observed on the first Monday of August each year and is clebrated with a horse race, railway picnic and other social outings",
+		"state": "nt",
+		"year": 2023,
+		"month": 8,
+		"day": 7
+	},
+	{
+		"holidayName": "Christmas Eve",
+		"information": "Part-day holiday 7pm to midnight",
+		"state": "nt",
+		"year": 2023,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "nt",
+		"year": 2023,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "nt",
+		"year": 2023,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Eve",
+		"information": "Part-day holiday 7pm to midnight",
+		"state": "nt",
+		"year": 2023,
+		"month": 12,
+		"day": 31
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "qld",
+		"year": 2023,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (observed)",
+		"information": "As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",
+		"state": "qld",
+		"year": 2023,
+		"month": 1,
+		"day": 2
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "qld",
+		"year": 2023,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "qld",
+		"year": 2023,
+		"month": 4,
+		"day": 7
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "qld",
+		"year": 2023,
+		"month": 4,
+		"day": 8
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "qld",
+		"year": 2023,
+		"month": 4,
+		"day": 9
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "qld",
+		"year": 2023,
+		"month": 4,
+		"day": 10
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "qld",
+		"year": 2023,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.",
+		"state": "qld",
+		"year": 2023,
+		"month": 5,
+		"day": 1
+	},
+	{
+		"holidayName": "Royal Queensland Show (Brisbane only)",
+		"information": "The Royal National Agricultural (RNA) Show Day (Brisbane only) is held on the Wednesday during the RNA Show period. The RNA Show commences on the first Friday in August, unless the first Friday is prior to 5 August, then it commences on the second Friday of August.",
+		"state": "qld",
+		"year": 2023,
+		"month": 8,
+		"day": 16
+	},
+	{
+		"holidayName": "Kingâ€™s Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "qld",
+		"year": 2023,
+		"month": 10,
+		"day": 2
+	},
+	{
+		"holidayName": "Christmas Eve",
+		"information": "From 2019, the Holidays Act 1983 provides for a part-day public holiday from 6pm to midnight on Christmas Eve",
+		"state": "qld",
+		"year": 2023,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "qld",
+		"year": 2023,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "qld",
+		"year": 2023,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "sa",
+		"year": 2023,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (observed)",
+		"information": "As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",
+		"state": "sa",
+		"year": 2023,
+		"month": 1,
+		"day": 2
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "sa",
+		"year": 2023,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Adelaide Cup Day",
+		"information": "The Holidays Act 1910 provides for the third Monday in May to be a public holiday, through the issuing of a special Proclamation by the Governor.",
+		"state": "sa",
+		"year": 2023,
+		"month": 3,
+		"day": 13
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "sa",
+		"year": 2023,
+		"month": 4,
+		"day": 7
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "sa",
+		"year": 2023,
+		"month": 4,
+		"day": 8
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "sa",
+		"year": 2023,
+		"month": 4,
+		"day": 10
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "sa",
+		"year": 2023,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Kingâ€™s Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "sa",
+		"year": 2023,
+		"month": 6,
+		"day": 12
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.",
+		"state": "sa",
+		"year": 2023,
+		"month": 10,
+		"day": 2
+	},
+	{
+		"holidayName": "Christmas Eve",
+		"information": "7pm to midnight",
+		"state": "sa",
+		"year": 2023,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "sa",
+		"year": 2023,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day / Proclamation Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "sa",
+		"year": 2023,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Eve",
+		"information": "7pm to midnight",
+		"state": "sa",
+		"year": 2023,
+		"month": 12,
+		"day": 31
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "tas",
+		"year": 2023,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (observed)",
+		"information": "As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",
+		"state": "tas",
+		"year": 2023,
+		"month": 1,
+		"day": 2
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "tas",
+		"year": 2023,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Eight Hours Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "tas",
+		"year": 2023,
+		"month": 3,
+		"day": 13
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "tas",
+		"year": 2023,
+		"month": 4,
+		"day": 7
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "tas",
+		"year": 2023,
+		"month": 4,
+		"day": 10
+	},
+	{
+		"holidayName": "Easter Tuesday",
+		"information": "Public Holiday currently observed by certain awards/agreements and the State Public Service",
+		"state": "tas",
+		"year": 2023,
+		"month": 4,
+		"day": 11
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "tas",
+		"year": 2023,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "tas",
+		"year": 2023,
+		"month": 6,
+		"day": 12
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "tas",
+		"year": 2023,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "tas",
+		"year": 2023,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "vic",
+		"year": 2023,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (observed)",
+		"information": "As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",
+		"state": "vic",
+		"year": 2023,
+		"month": 1,
+		"day": 2
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "vic",
+		"year": 2023,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "vic",
+		"year": 2023,
+		"month": 3,
+		"day": 13
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "vic",
+		"year": 2023,
+		"month": 4,
+		"day": 7
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "vic",
+		"year": 2023,
+		"month": 4,
+		"day": 8
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "vic",
+		"year": 2023,
+		"month": 4,
+		"day": 9
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "vic",
+		"year": 2023,
+		"month": 4,
+		"day": 10
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "vic",
+		"year": 2023,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "vic",
+		"year": 2023,
+		"month": 6,
+		"day": 12
+	},
+	{
+		"holidayName": "Friday before the AFL Grand Final",
+		"information": "Friday before the AFL Grand Final",
+		"state": "vic",
+		"year": 2023,
+		"month": 9,
+		"day": 29
+	},
+	{
+		"holidayName": "Melbourne Cup",
+		"information": "All of Victoria unless alternate local holiday has been arranged by non-metro council.",
+		"state": "vic",
+		"year": 2023,
+		"month": 11,
+		"day": 7
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "vic",
+		"year": 2023,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "vic",
+		"year": 2023,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "wa",
+		"year": 2023,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "New Year's Day (observed)",
+		"information": "As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",
+		"state": "wa",
+		"year": 2023,
+		"month": 1,
+		"day": 2
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "wa",
+		"year": 2023,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "wa",
+		"year": 2023,
+		"month": 3,
+		"day": 6
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "wa",
+		"year": 2023,
+		"month": 4,
+		"day": 7
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "wa",
+		"year": 2023,
+		"month": 4,
+		"day": 9
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "wa",
+		"year": 2023,
+		"month": 4,
+		"day": 10
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "wa",
+		"year": 2023,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Western Australia Day",
+		"information": "Held on the first Monday in June each year and is a state holiday only.",
+		"state": "wa",
+		"year": 2023,
+		"month": 6,
+		"day": 5
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "wa",
+		"year": 2023,
+		"month": 9,
+		"day": 25
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "wa",
+		"year": 2023,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "wa",
+		"year": 2023,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "act",
+		"year": 2024,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "act",
+		"year": 2024,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Canberra Day",
+		"information": "Held on the second Monday of March each year in Canberra to celebrate the naming ceremony of Australia's capital which took place on 12 March 1913.",
+		"state": "act",
+		"year": 2024,
+		"month": 3,
+		"day": 11
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "act",
+		"year": 2024,
+		"month": 3,
+		"day": 29
+	},
+	{
+		"holidayName": "Easter Saturday - the day after Good Friday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "act",
+		"year": 2024,
+		"month": 3,
+		"day": 30
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "act",
+		"year": 2024,
+		"month": 3,
+		"day": 31
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "act",
+		"year": 2024,
+		"month": 4,
+		"day": 1
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "act",
+		"year": 2024,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Reconciliation Day",
+		"information": "Takes place on the first Monday on or after 27 May each year the anniversary of the 1967 referendum",
+		"state": "act",
+		"year": 2024,
+		"month": 5,
+		"day": 27
+	},
+	{
+		"holidayName": "Sovereign's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "act",
+		"year": 2024,
+		"month": 6,
+		"day": 10
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.",
+		"state": "act",
+		"year": 2024,
+		"month": 10,
+		"day": 7
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "act",
+		"year": 2024,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "act",
+		"year": 2024,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "nsw",
+		"year": 2024,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "nsw",
+		"year": 2024,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "nsw",
+		"year": 2024,
+		"month": 3,
+		"day": 29
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "nsw",
+		"year": 2024,
+		"month": 3,
+		"day": 30
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nsw",
+		"year": 2024,
+		"month": 3,
+		"day": 31
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nsw",
+		"year": 2024,
+		"month": 4,
+		"day": 1
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "nsw",
+		"year": 2024,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "nsw",
+		"year": 2024,
+		"month": 6,
+		"day": 10
+	},
+	{
+		"holidayName": "Bank Holiday",
+		"information": "Applies to banks and certain financial institutions, per the Retail Trading Act 2008",
+		"state": "nsw",
+		"year": 2024,
+		"month": 8,
+		"day": 5
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.",
+		"state": "nsw",
+		"year": 2024,
+		"month": 10,
+		"day": 7
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "nsw",
+		"year": 2024,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "nsw",
+		"year": 2024,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "nt",
+		"year": 2024,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "nt",
+		"year": 2024,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "nt",
+		"year": 2024,
+		"month": 3,
+		"day": 29
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "nt",
+		"year": 2024,
+		"month": 3,
+		"day": 30
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nt",
+		"year": 2024,
+		"month": 3,
+		"day": 31
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "nt",
+		"year": 2024,
+		"month": 4,
+		"day": 1
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "nt",
+		"year": 2024,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "May Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "nt",
+		"year": 2024,
+		"month": 5,
+		"day": 6
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "nt",
+		"year": 2024,
+		"month": 6,
+		"day": 10
+	},
+	{
+		"holidayName": "Picnic Day",
+		"information": "Observed on the first Monday of August each year and is clebrated with a horse race, railway picnic and other social outings",
+		"state": "nt",
+		"year": 2024,
+		"month": 8,
+		"day": 5
+	},
+	{
+		"holidayName": "Christmas Eve",
+		"information": "Part-day holiday 7pm to midnight",
+		"state": "nt",
+		"year": 2024,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "nt",
+		"year": 2024,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "nt",
+		"year": 2024,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Eve",
+		"information": "Part-day holiday 7pm to midnight",
+		"state": "nt",
+		"year": 2024,
+		"month": 12,
+		"day": 31
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "qld",
+		"year": 2024,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "qld",
+		"year": 2024,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "qld",
+		"year": 2024,
+		"month": 3,
+		"day": 29
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "qld",
+		"year": 2024,
+		"month": 3,
+		"day": 30
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "qld",
+		"year": 2024,
+		"month": 3,
+		"day": 31
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "qld",
+		"year": 2024,
+		"month": 4,
+		"day": 1
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "qld",
+		"year": 2024,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.",
+		"state": "qld",
+		"year": 2024,
+		"month": 5,
+		"day": 6
+	},
+	{
+		"holidayName": "Royal Queensland Show (Brisbane only)",
+		"information": "The Royal National Agricultural (RNA) Show Day (Brisbane only) is held on the Wednesday during the RNA Show period. The RNA Show commences on the first Friday in August, unless the first Friday is prior to 5 August, then it commences on the second Friday of August.",
+		"state": "qld",
+		"year": 2024,
+		"month": 8,
+		"day": 14
+	},
+	{
+		"holidayName": "Kingâ€™s Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "qld",
+		"year": 2024,
+		"month": 10,
+		"day": 7
+	},
+	{
+		"holidayName": "Christmas Eve",
+		"information": "From 2019, the Holidays Act 1983 provides for a part-day public holiday from 6pm to midnight on Christmas Eve",
+		"state": "qld",
+		"year": 2024,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "qld",
+		"year": 2024,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "qld",
+		"year": 2024,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "sa",
+		"year": 2024,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "sa",
+		"year": 2024,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Adelaide Cup Day (subject to Proclamation)",
+		"information": "The Holidays Act 1910 provides for the third Monday in May to be a public holiday, through the issuing of a special Proclamation by the Governor.",
+		"state": "sa",
+		"year": 2024,
+		"month": 3,
+		"day": 11
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "sa",
+		"year": 2024,
+		"month": 3,
+		"day": 29
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "sa",
+		"year": 2024,
+		"month": 3,
+		"day": 30
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "sa",
+		"year": 2024,
+		"month": 4,
+		"day": 1
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "sa",
+		"year": 2024,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Kingâ€™s Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "sa",
+		"year": 2024,
+		"month": 6,
+		"day": 10
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.",
+		"state": "sa",
+		"year": 2024,
+		"month": 10,
+		"day": 7
+	},
+	{
+		"holidayName": "Christmas Eve",
+		"information": "7pm to midnight",
+		"state": "sa",
+		"year": 2024,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "sa",
+		"year": 2024,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day / Proclamation Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "sa",
+		"year": 2024,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Eve",
+		"information": "7pm to midnight",
+		"state": "sa",
+		"year": 2024,
+		"month": 12,
+		"day": 31
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "tas",
+		"year": 2024,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "tas",
+		"year": 2024,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Eight Hours Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "tas",
+		"year": 2024,
+		"month": 3,
+		"day": 11
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "tas",
+		"year": 2024,
+		"month": 3,
+		"day": 29
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "tas",
+		"year": 2024,
+		"month": 4,
+		"day": 1
+	},
+	{
+		"holidayName": "Easter Tuesday",
+		"information": "Public Holiday currently observed by certain awards/agreements and the State Public Service",
+		"state": "tas",
+		"year": 2024,
+		"month": 4,
+		"day": 2
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "tas",
+		"year": 2024,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "tas",
+		"year": 2024,
+		"month": 6,
+		"day": 10
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "tas",
+		"year": 2024,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "tas",
+		"year": 2024,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "vic",
+		"year": 2024,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "vic",
+		"year": 2024,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "vic",
+		"year": 2024,
+		"month": 3,
+		"day": 11
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "vic",
+		"year": 2024,
+		"month": 3,
+		"day": 29
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+		"state": "vic",
+		"year": 2024,
+		"month": 3,
+		"day": 30
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "vic",
+		"year": 2024,
+		"month": 3,
+		"day": 31
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "vic",
+		"year": 2024,
+		"month": 4,
+		"day": 1
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "vic",
+		"year": 2024,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "vic",
+		"year": 2024,
+		"month": 6,
+		"day": 10
+	},
+	{
+		"holidayName": "Friday before the AFL Grand Final",
+		"information": "Friday before the AFL Grand Final - Subject to AFL schedule",
+		"state": "vic",
+		"year": 2024,
+		"month": 9,
+		"day": 27
+	},
+	{
+		"holidayName": "Melbourne Cup",
+		"information": "All of Victoria unless alternate local holiday has been arranged by non-metro council.",
+		"state": "vic",
+		"year": 2024,
+		"month": 11,
+		"day": 5
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "vic",
+		"year": 2024,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "vic",
+		"year": 2024,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+		"state": "wa",
+		"year": 2024,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Always celebrated on 26 January",
+		"state": "wa",
+		"year": 2024,
+		"month": 1,
+		"day": 26
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+		"state": "wa",
+		"year": 2024,
+		"month": 3,
+		"day": 4
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+		"state": "wa",
+		"year": 2024,
+		"month": 3,
+		"day": 29
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "wa",
+		"year": 2024,
+		"month": 3,
+		"day": 31
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "Public Holiday as part of Easter.",
+		"state": "wa",
+		"year": 2024,
+		"month": 4,
+		"day": 1
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "Celebrated on the 25 April each year.",
+		"state": "wa",
+		"year": 2024,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Western Australia Day",
+		"information": "Held on the first Monday in June each year and is a state holiday only.",
+		"state": "wa",
+		"year": 2024,
+		"month": 6,
+		"day": 3
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+		"state": "wa",
+		"year": 2024,
+		"month": 9,
+		"day": 23
+	},
+	{
+		"holidayName": "Christmas Day ",
+		"information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+		"state": "wa",
+		"year": 2024,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+		"state": "wa",
+		"year": 2024,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 1,
+		"day": 27
+	},
+	{
+		"holidayName": "Canberra Day",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 3,
+		"day": 10
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Easter Saturday - the day after Good Friday",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 4,
+		"day": 19
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 4,
+		"day": 20
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 4,
+		"day": 21
+	},
+	{
+		"holidayName": "ANZAC Day",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Reconciliation Day",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 6,
+		"day": 2
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 6,
+		"day": 9
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 10,
+		"day": 6
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "",
+		"state": "act",
+		"year": 2025,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "",
+		"state": "nsw",
+		"year": 2025,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "",
+		"state": "nsw",
+		"year": 2025,
+		"month": 1,
+		"day": 27
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "",
+		"state": "nsw",
+		"year": 2025,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "",
+		"state": "nsw",
+		"year": 2025,
+		"month": 4,
+		"day": 19
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "",
+		"state": "nsw",
+		"year": 2025,
+		"month": 4,
+		"day": 20
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "",
+		"state": "nsw",
+		"year": 2025,
+		"month": 4,
+		"day": 21
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "",
+		"state": "nsw",
+		"year": 2025,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "",
+		"state": "nsw",
+		"year": 2025,
+		"month": 6,
+		"day": 9
+	},
+	{
+		"holidayName": "Bank Holiday",
+		"information": "Applies to banks and certain financial institutions, see the Retail Trading Act 2008.",
+		"state": "nsw",
+		"year": 2025,
+		"month": 8,
+		"day": 4
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "",
+		"state": "nsw",
+		"year": 2025,
+		"month": 10,
+		"day": 6
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "",
+		"state": "nsw",
+		"year": 2025,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "",
+		"state": "nsw",
+		"year": 2025,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 1,
+		"day": 27
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 4,
+		"day": 19
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 4,
+		"day": 20
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 4,
+		"day": 21
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "May Day",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 5,
+		"day": 5
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 6,
+		"day": 9
+	},
+	{
+		"holidayName": "Alice Springs Show Day",
+		"information": "Regional holiday - to find out which show day applies to your area, check the map of NT show day regions.",
+		"state": "nt",
+		"year": 2025,
+		"month": 7,
+		"day": 4
+	},
+	{
+		"holidayName": "Tennant Creek Show Day",
+		"information": "Regional holiday - to find out which show day applies to your area, check the map of NT show day regions.",
+		"state": "nt",
+		"year": 2025,
+		"month": 7,
+		"day": 11
+	},
+	{
+		"holidayName": "Katherine Show Day",
+		"information": "Regional holiday - to find out which show day applies to your area, check the map of NT show day regions.",
+		"state": "nt",
+		"year": 2025,
+		"month": 7,
+		"day": 18
+	},
+	{
+		"holidayName": "Darwin Show Day",
+		"information": "Regional holiday - to find out which show day applies to your area, check the map of NT show day regions.",
+		"state": "nt",
+		"year": 2025,
+		"month": 7,
+		"day": 25
+	},
+	{
+		"holidayName": "Picnic Day",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 8,
+		"day": 4
+	},
+	{
+		"holidayName": "Christmas Eve - part day holiday",
+		"information": "Part day holiday - from 7pm to midnight only.",
+		"state": "nt",
+		"year": 2025,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "",
+		"state": "nt",
+		"year": 2025,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Eve - part day holiday",
+		"information": "Part day holiday - from 7pm to midnight only.",
+		"state": "nt",
+		"year": 2025,
+		"month": 12,
+		"day": 31
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "",
+		"state": "qld",
+		"year": 2025,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "Australia Day public holiday is to be observed on the 26 January or, if 26 January is a Saturday or Sunday, it shall be observed the following Monday.",
+		"state": "qld",
+		"year": 2025,
+		"month": 1,
+		"day": 27
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "",
+		"state": "qld",
+		"year": 2025,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "The day after Good Friday",
+		"information": "",
+		"state": "qld",
+		"year": 2025,
+		"month": 4,
+		"day": 19
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Easter Sunday is appointed as a public holiday. These arrangements have been in place since 2017 following amendments to the Holidays Act 1983 (passed by Parliament on 1 December 2016).",
+		"state": "qld",
+		"year": 2025,
+		"month": 4,
+		"day": 20
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "",
+		"state": "qld",
+		"year": 2025,
+		"month": 4,
+		"day": 21
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "",
+		"state": "qld",
+		"year": 2025,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "Labour Day public holiday is to be observed on the first Monday in May and the Birthday of the Sovereign (King's Birthday) public holiday is to be observed on the first Monday in October. These arrangements have been in place since 2016 following amendments to the Holidays Act 1983 (passed by Parliament on 13 October 2015).",
+		"state": "qld",
+		"year": 2025,
+		"month": 5,
+		"day": 5
+	},
+	{
+		"holidayName": "Royal Queensland Show (Brisbane area only)",
+		"information": "The Royal National Agricultural (RNA) Show Day (Brisbane only) is held on the Wednesday during the RNA Show period. The RNA Show commences on the first Friday in August, unless the first Friday is prior to 5 August, then it commences on the second Friday of August.",
+		"state": "qld",
+		"year": 2025,
+		"month": 8,
+		"day": 13
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "Labour Day public holiday is to be observed on the first Monday in May and the Birthday of the Sovereign (King's Birthday) public holiday is to be observed on the first Monday in October. These arrangements have been in place since 2016 following amendments to the Holidays Act 1983 (passed by Parliament on 13 October 2015).",
+		"state": "qld",
+		"year": 2025,
+		"month": 10,
+		"day": 6
+	},
+	{
+		"holidayName": "Christmas Eve (24 December) 6pm - midnight",
+		"information": "From 2019, the Holidays Act 1983 provides for a part-day public holiday from 6pm to midnight on Christmas Eve (24 December).",
+		"state": "qld",
+		"year": 2025,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "",
+		"state": "qld",
+		"year": 2025,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "",
+		"state": "qld",
+		"year": 2025,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Years Day",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day public holiday",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 1,
+		"day": 27
+	},
+	{
+		"holidayName": "Adelaide Cup Day",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 3,
+		"day": 10
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Easter Saturday",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 4,
+		"day": 19
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 4,
+		"day": 20
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 4,
+		"day": 21
+	},
+	{
+		"holidayName": "ANZAC Day",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Kings Birthday",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 6,
+		"day": 9
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 10,
+		"day": 6
+	},
+	{
+		"holidayName": "Christmas Eve: 7pm to midnight",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 12,
+		"day": 24
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Proclamation Day holiday and Boxing Day",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Years Eve: 7pm to midnight",
+		"information": "",
+		"state": "sa",
+		"year": 2025,
+		"month": 12,
+		"day": 31
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "",
+		"state": "tas",
+		"year": 2025,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "",
+		"state": "tas",
+		"year": 2025,
+		"month": 1,
+		"day": 27
+	},
+	{
+		"holidayName": "Eight Hours Day",
+		"information": "",
+		"state": "tas",
+		"year": 2025,
+		"month": 3,
+		"day": 10
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "",
+		"state": "tas",
+		"year": 2025,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "",
+		"state": "tas",
+		"year": 2025,
+		"month": 4,
+		"day": 21
+	},
+	{
+		"holidayName": "Easter Tuesday - generally Tasmanian Public Service only",
+		"information": "",
+		"state": "tas",
+		"year": 2025,
+		"month": 4,
+		"day": 22
+	},
+	{
+		"holidayName": "ANZAC Day",
+		"information": "",
+		"state": "tas",
+		"year": 2025,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "",
+		"state": "tas",
+		"year": 2025,
+		"month": 6,
+		"day": 9
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "",
+		"state": "tas",
+		"year": 2025,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "",
+		"state": "tas",
+		"year": 2025,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "",
+		"state": "vic",
+		"year": 2025,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "As Australia Day falls on a Sunday, the public holiday is on the following Monday.",
+		"state": "vic",
+		"year": 2025,
+		"month": 1,
+		"day": 27
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "",
+		"state": "vic",
+		"year": 2025,
+		"month": 3,
+		"day": 10
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "ANZAC Day, Good Friday and Christmas Day are restricted trading days.",
+		"state": "vic",
+		"year": 2025,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Saturday before Easter Sunday",
+		"information": "",
+		"state": "vic",
+		"year": 2025,
+		"month": 4,
+		"day": 19
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "",
+		"state": "vic",
+		"year": 2025,
+		"month": 4,
+		"day": 20
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "",
+		"state": "vic",
+		"year": 2025,
+		"month": 4,
+		"day": 21
+	},
+	{
+		"holidayName": "ANZAC Day",
+		"information": "ANZAC Day, Good Friday and Christmas Day are restricted trading days.",
+		"state": "vic",
+		"year": 2025,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "",
+		"state": "vic",
+		"year": 2025,
+		"month": 6,
+		"day": 9
+	},
+	{
+		"holidayName": "Friday before the AFL Grand Final",
+		"information": "Friday before AFL Grand Final typically falls on the last Friday in September. The Business Victoria website will be updated with the exact date upon release of the 2025 AFL schedule.",
+		"state": "vic",
+		"year": null,
+		"month": null,
+		"day": null
+	},
+	{
+		"holidayName": "Melbourne Cup",
+		"information": "Melbourne Cup Day is a public holiday across all of Victoria unless alternate local holiday has been arranged by a non-metro council.",
+		"state": "vic",
+		"year": 2025,
+		"month": 11,
+		"day": 4
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "ANZAC Day, Good Friday and Christmas Day are restricted trading days.",
+		"state": "vic",
+		"year": 2025,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "",
+		"state": "vic",
+		"year": 2025,
+		"month": 12,
+		"day": 26
+	},
+	{
+		"holidayName": "New Year's Day",
+		"information": "",
+		"state": "wa",
+		"year": 2025,
+		"month": 1,
+		"day": 1
+	},
+	{
+		"holidayName": "Australia Day",
+		"information": "",
+		"state": "wa",
+		"year": 2025,
+		"month": 1,
+		"day": 27
+	},
+	{
+		"holidayName": "Labour Day",
+		"information": "",
+		"state": "wa",
+		"year": 2025,
+		"month": 3,
+		"day": 3
+	},
+	{
+		"holidayName": "Good Friday",
+		"information": "",
+		"state": "wa",
+		"year": 2025,
+		"month": 4,
+		"day": 18
+	},
+	{
+		"holidayName": "Easter Sunday",
+		"information": "Easter Sunday was established as a public holiday in Western Australia in February 2022. Visit the Easter Sunday public holiday page for more information.",
+		"state": "wa",
+		"year": 2025,
+		"month": 4,
+		"day": 20
+	},
+	{
+		"holidayName": "Easter Monday",
+		"information": "",
+		"state": "wa",
+		"year": 2025,
+		"month": 4,
+		"day": 21
+	},
+	{
+		"holidayName": "Anzac Day",
+		"information": "",
+		"state": "wa",
+		"year": 2025,
+		"month": 4,
+		"day": 25
+	},
+	{
+		"holidayName": "Western Australia Day",
+		"information": "",
+		"state": "wa",
+		"year": 2025,
+		"month": 6,
+		"day": 2
+	},
+	{
+		"holidayName": "King's Birthday",
+		"information": "This public holiday now known as the King's Birthday, was previously known as the Queen’s Birthday. Some regional areas in WA hold this public holiday on a different date - the 2024 dates are on the Regional WA public holiday dates page.",
+		"state": "wa",
+		"year": 2025,
+		"month": 9,
+		"day": 29
+	},
+	{
+		"holidayName": "Christmas Day",
+		"information": "",
+		"state": "wa",
+		"year": 2025,
+		"month": 12,
+		"day": 25
+	},
+	{
+		"holidayName": "Boxing Day",
+		"information": "",
+		"state": "wa",
+		"year": 2025,
+		"month": 12,
+		"day": 26
+	}
+]
